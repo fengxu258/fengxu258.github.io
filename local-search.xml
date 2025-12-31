@@ -5,12 +5,28 @@
   
   <entry>
     <title>It&#39;s a snowy day</title>
-    <link href="/2025/12/31/first/"/>
-    <url>/2025/12/31/first/</url>
+    <link href="/first/"/>
+    <url>/first/</url>
     
-    <content type="html"><![CDATA[<img src="\source\images\20251231snow.png" style="zoom:25%;" />]]></content>
+    <content type="html"><![CDATA[<center>  <img src="/images/20251231snow.png" style="zoom:40%;" /></center>]]></content>
     
     
+    <categories>
+      
+      <category>go</category>
+      
+      <category>to</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>start g</tag>
+      
+      <tag>-gopp</tag>
+      
+    </tags>
     
   </entry>
   
